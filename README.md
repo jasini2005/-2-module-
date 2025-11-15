@@ -12,3 +12,6 @@ even/odd
 <img width="1789" height="499" alt="image" src="https://github.com/user-attachments/assets/68d6f6e0-78ef-430a-b1a7-99b7fc6ac836" />
 positive or negative
 <img width="1807" height="514" alt="image" src="https://github.com/user-attachments/assets/feec396e-8767-4022-a872-381028b0045a" />
+multiplication table
+<img width="1775" height="490" alt="image" src="https://github.com/user-attachments/assets/cfe0471a-968c-478c-8ad9-79d90f1b6d70" />
+
