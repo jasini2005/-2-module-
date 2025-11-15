@@ -8,3 +8,5 @@ voiting
 <img width="1793" height="464" alt="image" src="https://github.com/user-attachments/assets/5b12cb56-f31c-45cf-9af0-d9a10236af66" />
 interger variable
 <img width="1255" height="508" alt="image" src="https://github.com/user-attachments/assets/73c3df8f-741a-42f0-be05-6deaea6d6385" />
+even/odd
+<img width="1789" height="499" alt="image" src="https://github.com/user-attachments/assets/68d6f6e0-78ef-430a-b1a7-99b7fc6ac836" />
