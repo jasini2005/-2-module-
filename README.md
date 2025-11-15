@@ -10,3 +10,5 @@ interger variable
 <img width="1255" height="508" alt="image" src="https://github.com/user-attachments/assets/73c3df8f-741a-42f0-be05-6deaea6d6385" />
 even/odd
 <img width="1789" height="499" alt="image" src="https://github.com/user-attachments/assets/68d6f6e0-78ef-430a-b1a7-99b7fc6ac836" />
+positive or negative
+<img width="1807" height="514" alt="image" src="https://github.com/user-attachments/assets/feec396e-8767-4022-a872-381028b0045a" />
