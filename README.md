@@ -14,4 +14,6 @@ positive or negative
 <img width="1807" height="514" alt="image" src="https://github.com/user-attachments/assets/feec396e-8767-4022-a872-381028b0045a" />
 multiplication table
 <img width="1775" height="490" alt="image" src="https://github.com/user-attachments/assets/cfe0471a-968c-478c-8ad9-79d90f1b6d70" />
+skip five
+<img width="1843" height="470" alt="image" src="https://github.com/user-attachments/assets/e21ee533-7730-4416-9851-cdd254dd163c" />
 
